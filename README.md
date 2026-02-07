@@ -69,3 +69,17 @@ Multi-column navigation links
 
 Company information and legal links
 
+------------------------------------------------------------------------------------
+how can you run this programe 
+
+Method 1: Using Live Server Open the project in VS Code
+
+Install Live Server extension
+
+Right-click on index.html
+
+Click Open with Live Server
+
+method 2:YOU CAN CLICK IN THIS LINK TO SEE THE DEPLOYED PROJECT 
+
+LINK : https://radiant-kataifi-40e49d.netlify.app/
